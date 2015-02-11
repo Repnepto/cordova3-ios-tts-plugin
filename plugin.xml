@@ -3,7 +3,8 @@
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     id="com.lefortsoftware.ttsplugin"
     version="0.1.0">
-    <name>TtsPlugin</name>   
+    <name>TtsPlugin</name> 
+    <description>Plugin to enable TTS from phonegap web view.</description>
     <!-- ios -->
     <platform name="ios">    
         <config-file target="config.xml" parent="/*">
