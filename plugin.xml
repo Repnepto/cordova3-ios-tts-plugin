@@ -37,7 +37,7 @@
         </config-file>
 
         <source-file src="src/android/com/lefortsoftware/TtsPlugin.java"
-                     target-dir="src/com/lefortsoftware"/>
+                     target-dir="src/com/lefortsoftware/ttsplugin"/>
 
         <js-module src="www/TtsPlugin.js" name="TtsPlugin">
             <clobbers target="ttsPlugin" />
